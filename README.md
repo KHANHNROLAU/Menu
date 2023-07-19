@@ -1,3 +1,3 @@
 # Welcome menu
 setup:
-apt update -y && pkg install python -y && pkg install git
+dán lệnh này vào:python index.py && python admin.py r go run menu tamp bật hay ko tắt thì tùy
